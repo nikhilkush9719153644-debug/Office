@@ -1,0 +1,12 @@
+AppDoze.com
+==============
+How to install the Application:
+=============
+1. Install office using setup in Setup folder
+2. Don't run the program and Run MAS_AIO-CRC32_8C3AA7E0
+3. Follow inscreen instructions
+4. Block application with firewall (recommended)
+5. Enjoy the Application
+
+===================
+For Direct and full speed downloads kindly visit https://Appdoze.com
